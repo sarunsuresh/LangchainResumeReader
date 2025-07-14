@@ -30,5 +30,3 @@ No cloud API keys needed — everything runs on your machine.
 
 ---
 
-Would you like me to generate a full `README.md` with setup instructions and example screenshots too?  
-This will make it super GitHub-ready and portfolio-worthy 💼✅
